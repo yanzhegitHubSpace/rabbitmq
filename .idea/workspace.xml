@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="021e4e15-b161-44c0-a2aa-d1aa51bf5a97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../mCode/mMvaen" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sPzKXAtfJiPHw7Q4Xaknctv3Du" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="topic" />
+      <recent name="driect" />
+      <recent name="fanout" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Provider (2)">
+    <configuration name="Customer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Customer1" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Customer2" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="driect.Customer2" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="driect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="driect.Provider" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="driect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Provider" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fanout.Provider" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fanout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Provider (2)" />
+        <item itemvalue="Application.Customer2 (1)" />
+        <item itemvalue="Application.Customer1" />
+        <item itemvalue="Application.Provider (1)" />
+        <item itemvalue="Application.Customer2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021e4e15-b161-44c0-a2aa-d1aa51bf5a97" name="Default Changelist" comment="" />
+      <created>1620788948582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620788948582</updated>
+      <workItem from="1620788953900" duration="12760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="-733" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620804105390">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="416" y="-733" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620804105390" />
+    <state width="1878" height="237" key="GridCell.Tab.0.bottom" timestamp="1620812212828">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620812212828" />
+    <state width="1878" height="237" key="GridCell.Tab.0.center" timestamp="1620812212825">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.center/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620812212825" />
+    <state width="1878" height="237" key="GridCell.Tab.0.left" timestamp="1620812212824">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.left/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620812212824" />
+    <state width="1878" height="237" key="GridCell.Tab.0.right" timestamp="1620812212826">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.right/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620812212826" />
+    <state x="191" y="-904" key="SettingsEditor" timestamp="1620789066328">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="191" y="-904" key="SettingsEditor/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620789066328" />
+    <state x="348" y="-783" width="667" height="486" key="find.popup" timestamp="1620812770354">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="348" y="-783" width="667" height="486" key="find.popup/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620812770354" />
+    <state x="347" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1620812049955">
+      <screen x="-278" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="347" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1620812049955" />
+  </component>
+</project>
